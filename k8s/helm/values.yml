@@ -6,7 +6,7 @@ mongo:
   dbUrl: "https://awesome.uswest1.prd-studio.mongodb"
   dbUserName : '@@dbUserName@@'
   dbPassword : '@@dbPassword@@'  
-
+email: “github@sndevops.xyz”
 image:
   repository: sannrao/demo-devops-app
   pullPolicy: IfNotPresent
